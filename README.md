@@ -13,9 +13,6 @@ The "Interactive Chatbot for Fun and Knowledge" is a Python program that engages
 
 | Python: The entire chatbot is implemented in Python, leveraging its simplicity and ease of use.
 | Input/Output: The program uses input functions to gather user responses and print statements to provide feedback.
-Benefits and Learning:
-
-This project exhibits competency in Python programming, including functions, conditional statements, loops, and basic arithmetic operations. The chatbot design showcases creativity and the ability to create engaging interactions with users. By offering a literature knowledge quiz, the project displays an interest in culture and education.
 
 https://github.com/vianaxx/SimpleChattyBot/assets/124326973/06adf337-9ac2-4db5-94b3-b2ae9ec0cf26
 
