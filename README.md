@@ -1,5 +1,3 @@
-Certainly! Here's a README for the Python program you provided:
-
 # Interactive Chatbot
 
 This Python program is an interactive chatbot that engages with the user through a series of questions and interactions. The chatbot has several functions, including greeting the user, guessing their age, counting numbers, and testing their literature knowledge.
