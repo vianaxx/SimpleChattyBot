@@ -26,9 +26,9 @@ This Python program is an interactive chatbot that engages with the user through
 - The literature knowledge test is a multiple-choice question with the correct answer being option 2.
 - You can modify the questions, responses, and logic of the program to create different interactions.
 
-Feel free to customize and enhance this code according to your preferences. Enjoy interacting with your new chatbot!
+## Acknowledgements
 
-Have fun chatting with your Python chatbot and exploring its various functionalities!
+This project is inspired by the JetBrains Academy.
 
 https://github.com/vianaxx/SimpleChattyBot/assets/124326973/06adf337-9ac2-4db5-94b3-b2ae9ec0cf26
 
